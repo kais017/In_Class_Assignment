@@ -33,5 +33,12 @@ while (num <= 10) {
     num+= 2;
 }
 
+// Task 5 
+
+function calculateSquare(num){
+    return num * num
+ }
+
+console.log(calculateSquare(4))
 
 
