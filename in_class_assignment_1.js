@@ -20,3 +20,8 @@ if (score >= 60) {
     console.log("Failed")
 }
 
+// Task 3 Loops
+
+for (let i = 10; i >= 1; i--)
+console.log(i)
+
